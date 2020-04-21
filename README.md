@@ -1,6 +1,6 @@
 # coffee_app
 
-A new Flutter project.
+An android app made for managing coffee choices of registered users using flutter and firebase (for authorization and database).
 
 ## Getting Started
 
